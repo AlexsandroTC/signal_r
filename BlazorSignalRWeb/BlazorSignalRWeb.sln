@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorSignalRWeb", "BlazorSignalRWeb\BlazorSignalRWeb\BlazorSignalRWeb.csproj", "{0B57AB95-2555-48EF-A980-4BF3BC519DC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorSignalRWeb.Client", "BlazorSignalRWeb\BlazorSignalRWeb.Client\BlazorSignalRWeb.Client.csproj", "{94BA9F55-A23F-4796-BD5F-EEA110750084}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B57AB95-2555-48EF-A980-4BF3BC519DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B57AB95-2555-48EF-A980-4BF3BC519DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B57AB95-2555-48EF-A980-4BF3BC519DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B57AB95-2555-48EF-A980-4BF3BC519DC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94BA9F55-A23F-4796-BD5F-EEA110750084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94BA9F55-A23F-4796-BD5F-EEA110750084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94BA9F55-A23F-4796-BD5F-EEA110750084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94BA9F55-A23F-4796-BD5F-EEA110750084}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {528AC707-4DEA-4116-9058-5D399C9FF328}
+	EndGlobalSection
+EndGlobal
